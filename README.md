@@ -18,3 +18,14 @@ O programa segue uma sequência lógica:
 1. Entrada de dados
    -  O usuário informa dois números.
    -  Também escolhe qual operação deseja realizar.
+2. Operações disponíveis
+   - Soma
+   - Subtração
+   - Divisão
+   - Multiplicação
+3. Processamento
+   - O programa utiliza estruturas condicionais (if, elif, else) para identificar qual operação foi escolhida.
+4. Saída
+   - O resultado da operação é exibido no terminal.
+  
+   
